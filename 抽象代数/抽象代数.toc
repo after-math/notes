@@ -1,0 +1,171 @@
+\contentsline {chapter}{前言}{2}{chapter*.1}%
+\contentsline {chapter}{\numberline {第1章\hspace {.3em}}群}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}半群与群}{1}{section.1.1}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{2}{section*.3}%
+\contentsline {section}{\numberline {1.2}子群与陪集}{6}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}群的交集为子群}{6}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}定理1.2.22的推论:若群 $G$ 的阶为素数 $p$，则 $G$只有平凡子群，从而也是单群。}{6}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}$Klein$四元群的性质}{6}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}子群乘积的阶公式}{8}{subsection.1.2.4}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{10}{subsection.1.2.4}%
+\contentsline {section}{\numberline {1.3}正规子群与商群}{16}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}指数为 2 的子群必为正规子群}{16}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}正规化子(Normalizer)}{16}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}若 $N\triangleleft G$ 且 $H\le G$，则$HN = NH$}{17}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}若 \(|G|=p\)（\(p\) 为素数），则 \(G\cong \mathbb {Z}/p\mathbb {Z}\)}{18}{subsection.1.3.4}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{19}{subsection.1.3.4}%
+\contentsline {section}{\numberline {1.4}群的同态与同构}{21}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}定理1.4.21的推论}{21}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}阶为 4 的群只有两种同构类型}{21}{subsection.1.4.2}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{23}{subsection.1.4.2}%
+\contentsline {section}{\numberline {1.5}循环群}{29}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}有限循环群元素相等的判别方式}{29}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}循环群中关于幂的阶的基本定理}{29}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}$\text { 对任意 }\bar {a}\in \mathbb {Z}_n,\text { 有}|\bar {a}|=\frac {n}{\gcd (a,n)}.$}{30}{subsection.1.5.3}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{31}{subsection.1.5.3}%
+\contentsline {section}{\numberline {1.6}对称群与交错群}{41}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}$r-$轮换的阶一定为$r$}{41}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}定理1.6.4的推论：置换的阶的计算}{41}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.3}$A_n$ 是 $S_n$ 中唯一的指数为 $2$ 的正规子群}{42}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.6.4}对称群 $S_p$ 中，若置换 $\sigma $ 的阶为$p$，则 $\sigma $ 是一个 $p$-轮换}{42}{subsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.6.5}$S_n$ 的自同构群 $\mathrm {Aut}(S_n)$}{43}{subsection.1.6.5}%
+\contentsline {subsection}{\numberline {1.6.6}$S_3$的性质}{43}{subsection.1.6.6}%
+\contentsline {subsection}{\numberline {1.6.7}$S_4$ 的非平凡正规子群只有$A_4 \hskip 1em\relax \text {和}\hskip 1em\relax V_4$}{44}{subsection.1.6.7}%
+\contentsline {subsection}{\numberline {1.6.8}符号同态与交正规}{45}{subsection.1.6.8}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{46}{subsection.1.6.8}%
+\contentsline {section}{\numberline {1.7}群的扩张与 John–Hölder 定理}{53}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}P38页表格}{53}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}例 1.7.5 中四条结论的证明}{55}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.7.3}引理1.7.6}{58}{subsection.1.7.3}%
+\contentsline {subsection}{\numberline {1.7.4}直积与半直积}{59}{subsection.1.7.4}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{62}{subsection.1.7.4}%
+\contentsline {section}{\numberline {1.8}可解群和幂零群}{67}{section.1.8}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{68}{section*.7}%
+\contentsline {section}{\numberline {1.9}群在集合上的作用}{76}{section.1.9}%
+\contentsline {subsection}{\numberline {1.9.1}例1.9.12的(1)}{76}{subsection.1.9.1}%
+\contentsline {subsection}{\numberline {1.9.2}P53的第一段}{77}{subsection.1.9.2}%
+\contentsline {subsection}{\numberline {1.9.3}只要 $G$在 $|X|>1$ 的集合上作用是可递的，就不可能是平凡作用，因此诱导同态 $G\to S_X $非平凡，$\ker \phi $不可能等于整个$ G$,也即是$\mathrm {Im} \phi \ne \{e\}$ 。 }{78}{subsection.1.9.3}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{80}{subsection.1.9.3}%
+\contentsline {section}{\numberline {1.10}Sylow 定理}{86}{section.1.10}%
+\contentsline {subsection}{\numberline {1.10.1}Caychy定理的推论：若群 $G$ 的阶为素数 $p$，则 $G$ 是循环群，且由任一非单位元生成。}{86}{subsection.1.10.1}%
+\contentsline {subsection}{\numberline {1.10.2} $P$ 是一个 $p$-群,则对任意非单位元 $x\in P$，其阶为$|x| = p^k$}{86}{subsection.1.10.2}%
+\contentsline {subsection}{\numberline {1.10.3}思考题1.10.7}{86}{subsection.1.10.3}%
+\contentsline {subsection}{\numberline {1.10.4}定理1.10.5定理的详细证明}{87}{subsection.1.10.4}%
+\contentsline {subsection}{\numberline {1.10.5}Sylow $p$-子群的等价命题}{90}{subsection.1.10.5}%
+\contentsline {subsection}{\numberline {1.10.6}$H$作用在$G/H$上的性质}{91}{subsection.1.10.6}%
+\contentsline {subsection}{\numberline {1.10.7}$G$ 的所有 Sylow $p$-子群恰好是 $P$ 在共轭作用下的轨道}{93}{subsection.1.10.7}%
+\contentsline {subsection}{\numberline {1.10.8}两个不同的 Sylow-$p$ 子群只有在阶为$ p$(而不是 $p^k,\ k\ge 2$时)，其交集必为 ${e}$。 }{94}{subsection.1.10.8}%
+\contentsline {subsection}{\numberline {1.10.9}Sylow $p$-子群中元素阶的性质}{94}{subsection.1.10.9}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{95}{subsection.1.10.9}%
+\contentsline {chapter}{\numberline {第2章\hspace {.3em}}环}{114}{chapter.2}%
+\contentsline {section}{\numberline {2.1}环的定义与基本性质}{114}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}思考题2.1.2}{114}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}$\mathbb Z[\sqrt m]$是整环}{114}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}相对范数/代数范数}{115}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}命题2.1.9}{116}{subsection.2.1.4}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{119}{subsection.2.1.4}%
+\contentsline {section}{\numberline {2.2}理想与商环}{127}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}整数坏的任何非零子坏一定形如$m\mathbb {Z}$}{127}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}$\mathbb Z_p \text { 是域}\ \DOTSB \Leftarrow \joinrel \Rightarrow \ p \text { 为素数}$}{128}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}思考题 2.2.6.}{128}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}思考题2.2.8}{129}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}幺元与交换性的继承}{129}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}思考题2.2.12}{130}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}在交换幺环中由 $S$ 生成的理想的形式.}{131}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.8}整环中，$a\mid b \hskip 1em\relax \DOTSB \Leftarrow \joinrel \Rightarrow \hskip 1em\relax \langle b\rangle \subseteq \langle a\rangle $}{131}{subsection.2.2.8}%
+\contentsline {subsection}{\numberline {2.2.9}含有可逆元的幺环的理想必是幺环本身}{132}{subsection.2.2.9}%
+\contentsline {subsection}{\numberline {2.2.10}对于整环中的任何非可逆元$a$，$\langle a\rangle $必是非平凡理想}{132}{subsection.2.2.10}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{133}{subsection.2.2.10}%
+\contentsline {section}{\numberline {2.3}四元数体}{141}{section.2.3}%
+\contentsline {section}{\numberline {2.4}环的同态}{142}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}$\varphi : R_1 \to R_2$ 为环同态(且$\varphi $不是零同态)，其中 $R_1$ 为幺环，$R_2$ 为整环，则$\operatorname {Im}\varphi $ 是整环}{142}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}两个整环同构，则对应的分式域同构}{142}{subsection.2.4.2}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{144}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.5}整环上的因子分解}{153}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}整除的性质}{153}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}$ \mathbb {Z}[\sqrt {-1}]\text {的单位群为：} \{1,\,-1,\,\sqrt {-1},\,-\sqrt {-1}\}. $ }{154}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}例2.5.4的详细证明以及范数的补充}{155}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}思考题2.5.5}{155}{subsection.2.5.4}%
+\contentsline {subsection}{\numberline {2.5.5}$R$ 为交换幺环，$u\in R$ 为单位，主理想 $\langle u\rangle = R$}{155}{subsection.2.5.5}%
+\contentsline {subsection}{\numberline {2.5.6}$R$ 为整环， $a\sim b$，主理想 $\langle a\rangle =\langle b\rangle $}{156}{subsection.2.5.6}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{157}{subsection.2.5.6}%
+\contentsline {section}{\numberline {2.6}素理想与极大理想}{167}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}思考题2.6.4}{167}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}思考题2.6.13}{168}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3} $R$ 为整环,若主理想 $\langle p\rangle $ 为素理想，则 $p$ 是不可约元}{168}{subsection.2.6.3}%
+\contentsline {subsection}{\numberline {2.6.4}设 $R$ 为交换幺环，$p\in R$。 则$p \text { 为素元}\ \DOTSB \Leftarrow \joinrel \Rightarrow \ \langle p\rangle \text { 为素理想}$}{169}{subsection.2.6.4}%
+\contentsline {subsection}{\numberline {2.6.5}在交换幺环 $R$ 中，每个极大理想都是素理想}{169}{subsection.2.6.5}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{170}{subsection.2.6.5}%
+\contentsline {section}{\numberline {2.7}主理想整环与欧几里得环}{176}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}思考题2.7.4}{176}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}例2.7.13}{176}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.7.3}在主理想整环中，$p\in R$ 为\textbf {非零非单位}，则$\langle p\rangle \text { 极大}\ \DOTSB \Leftarrow \joinrel \Rightarrow \ \langle p\rangle \text { 素}\ \DOTSB \Leftarrow \joinrel \Rightarrow \ p \text { 不可约}\DOTSB \Leftarrow \joinrel \Rightarrow p \text { 为素元}$}{178}{subsection.2.7.3}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{180}{subsection.2.7.3}%
+\contentsline {section}{\numberline {2.8}环上的多项式}{190}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}命题2.8.1}{190}{subsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.8.2} $R$ 为整环，$f,g\in R[x]$， $f\neq 0$ 且 $g\neq 0$ ,则$\deg (fg)=\deg f+\deg g$}{191}{subsection.2.8.2}%
+\contentsline {subsection}{\numberline {2.8.3}思考题2.8.2}{192}{subsection.2.8.3}%
+\contentsline {subsection}{\numberline {2.8.4}思考题2.8.3}{192}{subsection.2.8.4}%
+\contentsline {subsection}{\numberline {2.8.5}$R$ 为整环，则多项式环 $R[x]$ 亦为整环}{192}{subsection.2.8.5}%
+\contentsline {subsection}{\numberline {2.8.6}$R[a]$ 是 $R_1$ 中\textbf {包含 $R$ 及 $a$ 的最小子环}}{193}{subsection.2.8.6}%
+\contentsline {subsection}{\numberline {2.8.7}title}{193}{subsection.2.8.7}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{197}{subsection.2.8.7}%
+\contentsline {section}{\numberline {2.9}整环上的多项式环}{198}{section.2.9}%
+\contentsline {subsection}{\numberline {2.9.1}定理2.9.4的证明}{198}{subsection.2.9.1}%
+\contentsline {subsection}{\numberline {2.9.2}定理2.9.4的推论：域上的多项式除法}{200}{subsection.2.9.2}%
+\contentsline {subsection}{\numberline {2.9.3}$F$ 为域，则多项式环 $F[x]$ 是欧几里得环，从而是主理想整环和唯一分解整环}{200}{subsection.2.9.3}%
+\contentsline {subsection}{\numberline {2.9.4}本原分解的相伴唯一性}{201}{subsection.2.9.4}%
+\contentsline {subsection}{\numberline {2.9.5}域同态诱导的环同态}{202}{subsection.2.9.5}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{204}{subsection.2.9.5}%
+\contentsline {section}{\numberline {2.10}对称多项式}{211}{section.2.10}%
+\contentsline {subsection}{\numberline {2.10.1}$\DOTSB \prod@ \slimits@ _{i=1}^n (x-\alpha _i)$的系数为对称多项式}{211}{subsection.2.10.1}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{213}{subsection.2.10.1}%
+\contentsline {chapter}{\numberline {第3章\hspace {.3em}}模}{214}{chapter.3}%
+\contentsline {chapter}{\numberline {第4章\hspace {.3em}}域}{215}{chapter.4}%
+\contentsline {section}{\numberline {4.1}域的基本概念}{215}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}引理 4.1.2}{215}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}嵌入}{215}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}P156页验证$\bar \varphi $ 的定义合理}{216}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}定理4.1.11}{218}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}任意域的素域都是由幺元 $1$ 的整数倍及其必要的逆元生成的最小子域，并且任何域同态都会在素域上自动诱导出一个同构。}{219}{subsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.1.6}域同态把由元素生成的合域送到由像生成的合域}{220}{subsection.4.1.6}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{222}{subsection.4.1.6}%
+\contentsline {section}{\numberline {4.2}代数扩张}{226}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}常用的一个同构}{226}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}$\mathrm {Irr}(\alpha ,F)$ 一定整除任意满足 $f(\alpha )=0$ 的 $f(x)\in F[x]$}{227}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}无论 $\alpha $ 是 $F$ 上的代数元还是超越元，都有$ F(\alpha )=\mathrm {Frac}\big (F[\alpha ]\big ). $(书本P160页)}{228}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}$\alpha $ 超越于 $F$，则$\mathrm {Frac}(F[\alpha ])\cong _F \mathrm {Frac}(F[x])\mathrel {\mathop :}\mathrel {\mkern -1.2mu}=F(x).$}{229}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}定理4.2.13}{230}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.6}有限扩张的有限生成性}{230}{subsection.4.2.6}%
+\contentsline {subsection}{\numberline {4.2.7}设 $F$ 为域，$f(x)\in F[x]$ 为不可约多项式,$ F[x]/\langle f(x)\rangle $是 $F$ 的一个代数扩张}{230}{subsection.4.2.7}%
+\contentsline {subsection}{\numberline {4.2.8}$[F(\alpha _1,\alpha _2,\dots ,\alpha _m):F]$的计算}{232}{subsection.4.2.8}%
+\contentsline {subsection}{\numberline {4.2.9}代数扩张和超越扩张的次数}{233}{subsection.4.2.9}%
+\contentsline {subsection}{\numberline {4.2.10}$[\mathbb Q(\alpha ):\mathbb Q]=2$（二次单代数扩张）的统一形式}{235}{subsection.4.2.10}%
+\contentsline {subsection}{\numberline {4.2.11}合域次数公式}{235}{subsection.4.2.11}%
+\contentsline {subsection}{\numberline {4.2.12}计算$ [F(\alpha _1,\alpha _2,\dots ,\alpha _m):F]$}{236}{subsection.4.2.12}%
+\contentsline {subsection}{\numberline {4.2.13}单代数扩张 $F(\alpha )$ 的三种等价形式}{238}{subsection.4.2.13}%
+\contentsline {subsubsection}{(1) 生成式（最抽象的定义）}{238}{section*.19}%
+\contentsline {subsubsection}{(2) 多项式值形式（代数元时\textcolor {red}{$F(\alpha )=F[\alpha ]$}）}{238}{section*.19}%
+\contentsline {subsubsection}{(3) 基（线性空间）形式（最常用的标准表示）}{238}{section*.19}%
+\contentsline {subsection}{\numberline {4.2.14}判断$F(a_1,a_2,\dots )$是否为代数扩张}{239}{subsection.4.2.14}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{241}{subsection.4.2.14}%
+\contentsline {section}{\numberline {4.3}尺规作图}{249}{section.4.3}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{250}{section*.27}%
+\contentsline {section}{\numberline {4.4}分裂域}{253}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}引理 4.4.2}{253}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}定理4.4.2嵌入的构造}{254}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}推论 4.4.5和推论 4.4.6的证明}{256}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}引理4.4.11}{257}{subsection.4.4.4}%
+\contentsline {subsection}{\numberline {4.4.5}分裂域的最小性}{259}{subsection.4.4.5}%
+\contentsline {subsection}{\numberline {4.4.6}分裂域同构的构造的完整详细过程}{260}{subsection.4.4.6}%
+\contentsline {subsection}{\numberline {4.4.7}$x^n-d$的分裂域}{263}{subsection.4.4.7}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{265}{subsection.4.4.7}%
+\contentsline {section}{\numberline {4.5}Galois群}{269}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}有限Galois扩张的Galois群 $\mathrm {Gal}(K/F)$同构于某个对称群 $S_n$ 的子群}{269}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Galois 群 $\mathrm {Gal}(K/F)$同构于某个对称群 $S_n$ 的子群}{269}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}$F$-域同态的唯一性}{270}{subsection.4.5.3}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{271}{subsection.4.5.3}%
+\contentsline {section}{\numberline {4.6}Galois扩张与Galois对应}{275}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Galois 群的置换表示}{275}{subsection.4.6.1}%
+\contentsline {subsection}{\textcolor {red}{课后习题答案}}{276}{subsection.4.6.1}%
+\contentsfinish 
